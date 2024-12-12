@@ -1,0 +1,29 @@
+1. Quais foram as principais limitações dos bancos de dados relacionais que levaram ao surgimento dos bancos de dados NoSQL?
+
+2. Cite as categorias principais de bancos de dados NoSQL discutidas no artigo e explique uma característica de cada uma.
+
+3. Como a diversidade de opções de bancos de dados NoSQL dificulta a escolha por parte dos tomadores de decisão?
+
+4. Quais são os principais desafios ao comparar bancos de dados NoSQL, segundo o estudo?
+
+5. Explique como as funcionalidades dos bancos de dados NoSQL podem variar dentro de uma mesma categoria.
+
+6. Por que novos bancos de dados continuam surgindo, mesmo existindo soluções NoSQL consolidadas no mercado?
+
+7. Quais critérios o artigo sugere considerar ao selecionar um banco de dados NoSQL para um cenário específico?
+
+8. O estudo aponta vantagens e desvantagens dos bancos de dados NoSQL em relação aos relacionais? Cite dois exemplos.
+
+9. O que o artigo diz sobre a importância de compreender o cenário de aplicação antes de escolher um banco de dados NoSQL?
+
+10. Quais são as diferenças de foco entre bancos de dados NoSQL de diferentes categorias? Dê exemplos mencionados no artigo.
+
+11. Quais funcionalidades de bancos de dados NoSQL podem ser mais úteis para aplicações em larga escala?
+
+12. O artigo menciona alguma ferramenta ou metodologia específica para comparar bancos de dados NoSQL? Explique.
+
+13. De que forma o marketing dos provedores de bancos de dados pode influenciar a percepção dos tomadores de decisão?
+
+14. O que o artigo conclui sobre a dificuldade de indicar o “melhor banco de dados” para cada categoria?
+
+15. Como o estudo pode ajudar os desenvolvedores a simplificar o processo de tomada de decisão na escolha de um banco de dados?
