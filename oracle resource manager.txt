@@ -1,0 +1,25 @@
+Oracle Cloud Infrastructure Resource Manager
+oracle.com
+
+O Oracle Cloud Infrastructure (OCI) Resource Manager é um serviço gerenciado que automatiza a implantação e as operações dos recursos na Oracle Cloud Infrastructure. Baseado no Terraform, uma ferramenta de código aberto amplamente utilizada para "Infraestrutura como Código" (IaC), o Resource Manager permite que equipes de DevOps desenvolvam e implementem sua infraestrutura de forma consistente e repetível. 
+ORACLE
+
+Visão Geral: O Resource Manager facilita a criação, configuração e gerenciamento de recursos de nuvem por meio de definições declarativas em arquivos de configuração do Terraform. Isso promove a automação e a padronização na gestão da infraestrutura, reduzindo erros manuais e aumentando a eficiência operacional. 
+DOCUMENTAÇÃO ORACLE
+
+Pilhas: Uma pilha é uma coleção de recursos do OCI definidos por uma configuração do Terraform. Cada pilha reside em um compartimento específico e pode abranger múltiplas regiões. As pilhas permitem gerenciar conjuntos de recursos como uma unidade coesa, facilitando operações como criação, atualização e exclusão de recursos associados. 
+DOCUMENTAÇÃO ORACLE
+
+Jobs: Um job no Resource Manager representa uma ação executada em uma pilha, como aplicar uma configuração, gerar um plano ou destruir recursos. Os jobs armazenam o histórico de operações realizadas na pilha, incluindo planos de execução e arquivos de estado, permitindo rastrear mudanças e reverter configurações quando necessário. 
+DOCUMENTAÇÃO ORACLE
+
+Modelos Privados: Além dos modelos fornecidos pela Oracle, os usuários podem criar modelos privados, que são configurações do Terraform personalizadas para atender a cenários específicos. Esses modelos podem ser compartilhados dentro da tenancy, promovendo reutilização e consistência nas implantações. 
+DOCUMENTAÇÃO ORACLE
+
+Provedores de Origem de Configuração: Os provedores de origem de configuração especificam onde os arquivos de configuração do Terraform estão armazenados. O Resource Manager suporta integrações com sistemas de controle de versão como GitHub, GitLab e Bitbucket, permitindo que as configurações sejam gerenciadas e versionadas externamente. Isso facilita a colaboração e a integração contínua no desenvolvimento da infraestrutura. 
+DOCUMENTAÇÃO ORACLE
+
+Pontos Finais Privados: Os pontos finais privados permitem que o Resource Manager acesse recursos não públicos dentro de uma Rede Virtual em Nuvem (VCN). Isso é essencial para executar operações em recursos que não estão expostos à internet pública, garantindo segurança e conformidade com políticas internas. Por exemplo, é possível conectar-se a servidores Git privados ou instâncias de computação em sub-redes privadas durante a execução de jobs. 
+DOCUMENTAÇÃO ORACLE
+
+Em resumo, o OCI Resource Manager oferece uma plataforma robusta para gerenciar a infraestrutura como código, integrando-se com ferramentas populares e fornecendo recursos avançados para automação e controle de recursos na nuvem.
