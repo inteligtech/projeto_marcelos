@@ -27,3 +27,5 @@
 14. O que o artigo conclui sobre a dificuldade de indicar o “melhor banco de dados” para cada categoria?
 
 15. Como o estudo pode ajudar os desenvolvedores a simplificar o processo de tomada de decisão na escolha de um banco de dados?
+
+16 . testes do github na nuvem
